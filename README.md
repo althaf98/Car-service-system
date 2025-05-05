@@ -1,2 +1,15 @@
 # Car-service-system
-This is a type of the service provide by the service center
+ User Roles & Authentication
+Admin Login
+
+Secure login system for administrators.
+
+Session-based authentication.
+
+Customer Login/Signup
+
+Registration form for new users.
+
+Secure login using username/password.
+
+Forgot password (optional).
